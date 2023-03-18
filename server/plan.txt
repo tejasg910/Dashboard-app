@@ -1,0 +1,19 @@
+setup server
+create folder structure 
+install dependencies 
+
+connect database 
+
+
+server request get all data 
+filter 
+    Add end year filter in the dashboard
+    Add topics filters in the dashboard
+    Add sector filter in the dashboard
+    Add region filter in the dashboard
+    Add PEST filter in the dashboard
+    Add Source filter in the dashboard
+    Add SWOT filter in the dashboard
+    Country
+    City
+    
